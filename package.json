@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vcmhugo/Asincronismo/issues"
   },
-  "homepage": "https://github.com/vcmhugo/Asincronismo#readme"
+  "homepage": "https://github.com/vcmhugo/Asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
